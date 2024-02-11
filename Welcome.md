@@ -1,5 +1,19 @@
-This is your new *vault*.
+# Título Principal
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+## Título Secundário
 
-When you're ready, delete this note and make the vault your own.
+### Título Terciário
+
+- Lista com marcadores
+- Outro item de lista
+
+1. Lista numerada
+2. Segundo item
+
+**Texto em negrito**
+
+*Texto em itálico*
+
+[Link para o Google](https://www.google.com)
+
+![Imagem de exemplo](imagem.png)
