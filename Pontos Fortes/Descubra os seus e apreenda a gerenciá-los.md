@@ -21,4 +21,8 @@
 ## Para identificar meus pontos fortes de acordo com minha personalidade
 1. Fazer o que mais gosta
 2. Conversar com as pessoas que você gosta sobre assuntos diversos
-3. Envolva-se em novas atividades
+3. Envolva-se em novas atividades (Sair da mesmise)
+
+---
+
+## Eficácia Parte 1 | 
