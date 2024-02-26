@@ -31,5 +31,9 @@
 2. Você é paciente?
 3. Demonstra confiança nas motivações dos outros (Confia nas pessoas)?
 
-### Perspectiva dos 20 anos
+### Perspectiva dos 20 anos - Metodologia de Warren Buffett
+- Raramente interferindo no dia-a-dia dos negócios (Confiança na motivação dos outros)
+- Consciência nas escolhas
+- Identificar seus pontos fortes + experiência e educação, ajudam na jornada do sucesso.
+
 
