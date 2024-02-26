@@ -29,4 +29,7 @@
 ### Perguntas de Warren Buffett
 1. Eu gosto do que eu faço?
 2. Você é paciente?
-3. Demo
+3. Demonstra confiança nas motivações dos outros (Confia nas pessoas)?
+
+### Perspectiva dos 20 anos
+
