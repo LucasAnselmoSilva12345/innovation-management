@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Pontos Fortes/Descubra os seus e apreenda a gerenciá-los.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Pontos Fortes/Descubra os seus e apreenda a gerenciá-los.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Pontos Fortes/Descubra os seus e apreenda a gerenciá-los.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Pontos Fortes/Descubra os seus e apreenda a gerenciá-los.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "d0f7a77968f99224",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "Pontos Fortes/Descubra os seus e apreenda a gerenciá-los.md",
+    "Pontos Fortes"
   ]
 }
