@@ -24,5 +24,9 @@
 3. Envolva-se em novas atividades (Sair da mesmise)
 
 ---
+## Eficácia Parte 1 | Pontos Fortes
 
-## Eficácia Parte 1 | 
+### Perguntas de Warren Buffett
+1. Eu gosto do que eu faço?
+2. Você é paciente?
+3. Demo
