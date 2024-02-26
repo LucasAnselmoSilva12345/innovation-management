@@ -36,4 +36,12 @@
 - Consciência nas escolhas
 - Identificar seus pontos fortes + experiência e educação, ajudam na jornada do sucesso.
 
+## Analise do metodo de Warren Buffett
+- Identificar seus traços mais fortes, reforce-os com a prática e o aprendizado.
 
+## Reflexão
+
+### Para você como é ter uma vida realmente produtiva? 
+Uma vida produtiva n
+
+> Como é a rotina daquele dia em que você faz tantas coisas que se sente satisfeito?
