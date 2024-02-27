@@ -54,3 +54,7 @@
 3. Oportunidades
 4. As pessoas que convivemos
 
+- Saber distinguir seus talentos naturais das coisas que você pode aprender
+
+## Qual a diferença entre talento e um ponto forte
+- Inato x Adquirido com a prática
