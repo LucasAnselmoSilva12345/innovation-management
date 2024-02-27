@@ -31,4 +31,14 @@ _Para muitos de nós, o medo das fraquezas nos faz desconfiar de que não fomos 
 	2. **Mas não se esqueça de reforçar seus pontos fortes**
 3. Unir a alguém que complemente as suas deficiências
 	1. Estabelecer uma relação Ganha / Ganha
-4. Eu realmente preciso estar fazendo esta atividade q
+4. Eu realmente preciso estar fazendo esta atividade em que não performo bem?
+	1. Delegar para alguém que possa fazer melhor
+5. Descubra seus talentos observando suas repostas a situações diárias
+	1. Preste mais atenção em você
+
+_**Para identificar seus talentos, você precisa olhar para você mesmo de uma maneira diferente**_
+
+---
+## Conselho para identificar nossos pontos fortes
+1. Como você reage aos desafios?
+	1. Monitore 
