@@ -41,4 +41,10 @@ _**Para identificar seus talentos, você precisa olhar para você mesmo de uma m
 ---
 ## Conselho para identificar nossos pontos fortes
 1. Como você reage aos desafios?
-	1. Monitore 
+	1. Monitore a sua espontaniedade -> A forma como você encara os desafios que o rodeiam, revelam aquilo que você lida bem ou mal.
+2. Se você estiver diante de uma escolha, qual a sua tendência?
+	1. Mais fácil -> Tendência de voltarmos ao antigo hábito
+3. Faça diferente
+	1. Olhe para o que você é melhor
+4. O que você faz no seu trabalho que dá mais prazer a você
+	1. Descobrir seu talento -> se você gosta de realizar seu trabalho, então está no caminho certo.
