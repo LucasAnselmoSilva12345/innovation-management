@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "55f93071f90abe95",
+        "id": "8fef61c0b13b9e77",
         "type": "tabs",
         "children": [
           {
-            "id": "23a6f8bf6d1c9583",
+            "id": "6ca29b760dd63265",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pontos Fortes/Anatomia de um ponto forte/Aula.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0f7a77968f99224",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pontos Fortes/Anatomia de um ponto forte/Conteúdo Extra.md",
+                "file": "Pontos Fortes/Desenvolvendo pontos fortes/Aula.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pontos Fortes/Anatomia de um ponto forte/Conteúdo Extra.md",
+                "file": "Pontos Fortes/Desenvolvendo pontos fortes/Aula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pontos Fortes/Anatomia de um ponto forte/Conteúdo Extra.md",
+                "file": "Pontos Fortes/Desenvolvendo pontos fortes/Aula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pontos Fortes/Anatomia de um ponto forte/Conteúdo Extra.md"
+                "file": "Pontos Fortes/Desenvolvendo pontos fortes/Aula.md"
               }
             }
           }
@@ -159,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0f7a77968f99224",
+  "active": "6ca29b760dd63265",
   "lastOpenFiles": [
     "Pontos Fortes/Anatomia de um ponto forte/Aula.md",
-    "Pontos Fortes/Anatomia de um ponto forte",
+    "Pontos Fortes/Desenvolvendo pontos fortes/Aula.md",
+    "Pontos Fortes/Desenvolvendo pontos fortes",
     "Pontos Fortes/Anatomia de um ponto forte/Conteúdo Extra.md",
+    "Pontos Fortes/Anatomia de um ponto forte",
     "Welcome.md",
     "Pontos Fortes"
   ]

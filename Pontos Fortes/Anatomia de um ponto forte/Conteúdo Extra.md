@@ -1,3 +1,4 @@
+> 26/02/2024
 # Como identificar seus pontos fortes
 1. Ter autoconhecimento
 2. Segurança
@@ -22,5 +23,11 @@
 3. Envolva-se em novas atividades (Sair da mesmise)
 
 ---
-
 ## Respostas de questão de Balanço
+1. Comprometimento com relação as minhas responsabilidades, responsabilidades, humildade, organização, determinação, saber ouvir e apreender
+2. Comprometimento, humildade. saber ouvir e apreender, pesquisar
+3. Apreender, ouvir, debater e conversar e analisar
+
+## Repostas de questões de Triagem
+1. Ouvir, apreender, sugerir e conversar
+2. Naturalmente, ouvindo, fazendo e apreendendo e debatendo, quando necessário.
