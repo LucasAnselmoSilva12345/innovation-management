@@ -58,3 +58,11 @@
 
 ## Qual a diferença entre talento e um ponto forte
 - Inato x Adquirido com a prática
+
+#### Quando aprendemos coisas novas -> Técnicas que facilitam nosso trabalho
+
+## Análise de Talento, Conhecimentos e Técnicas
+- Ao combinarmos talentos, conhecimento e técnicas -> criamos nossos **pontos fortes**
+- Ter conhecimentos sobre seus talentos
+- Com a prática, quase tudo pode ser apreendido -> Zona de conforto (falsa sensação que está tudo bem)
+- Porçao finita de tempo para investir em si mesma
