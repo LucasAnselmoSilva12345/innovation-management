@@ -22,4 +22,13 @@ _Para muitos de nós, o medo das fraquezas nos faz desconfiar de que não fomos 
 
 ---
 ## Como lidar com aquilo que não fazemos bem?
-- Se você tem pontos fortes, foque suas energias em seus pontos forte
+- Se você tem pontos fortes, foque suas energias em seus pontos fortes dominantes.
+## Conselho para focar mais nos seus pontos fortes dominantes
+1. Não precisa ter pontos fortes em todos os aspectos de sua função para ser excelente
+	1. Identificar nossos talentos mais poderosos e dar foco nisso
+2. Melhorar um pouco mais nossos pontos fracos
+	1. Não sofrer, tentar fazer algo maior até nosso limite.
+	2. **Mas não se esqueça de reforçar seus pontos fortes**
+3. Unir a alguém que complemente as suas deficiências
+	1. Estabelecer uma relação Ganha / Ganha
+4. Eu realmente preciso estar fazendo esta atividade q
