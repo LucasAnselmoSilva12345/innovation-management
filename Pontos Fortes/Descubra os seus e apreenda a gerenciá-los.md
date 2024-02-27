@@ -24,7 +24,7 @@
 3. Envolva-se em novas atividades (Sair da mesmise)
 
 ---
-## Anatomia de um ponto fortees
+## Anatomia de um ponto forte
 
 ### Perguntas de Warren Buffett
 1. Eu gosto do que eu faço?
@@ -46,3 +46,11 @@
 
 ### Como é a rotina daquele dia em que você faz tantas coisas que se sente satisfeito?
 - Gerente é um dia que fico focado nas minhas tarefas que seleciono onde sei que vou conseguir desempenhar 100% de minha capacidade e conhecimento. Nesse dia, seleciono as tarefas que geram mais valor para o ramo que estou trabalhando e viso resolver essas tarefas. Nos dias que são produtivos, me sinto bem e minha rotina pós trabalho e procurar me divertir e ter um descanso merecido, seja assisitindo uma TV, serie ou jogando um jogo.
+
+---
+## Pontos caracteristicos de pontos fortes
+1. Autoconsciência
+2. Maturidade
+3. Oportunidades
+4. As pessoas que convivemos
+
