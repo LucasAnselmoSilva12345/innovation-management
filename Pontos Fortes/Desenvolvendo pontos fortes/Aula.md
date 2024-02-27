@@ -19,3 +19,7 @@ _**Com o maior tempo gasto naquilo que não sabe fazer bem, ocupamos pouco ou ne
 - Técnica -> Maneira como fazemos as coisas
 
 _Para muitos de nós, o medo das fraquezas nos faz desconfiar de que não fomos privilegiados pela natureza_
+
+---
+## Como lidar com aquilo que não fazemos bem?
+- Se você tem pontos fortes, foque suas energias em seus pontos forte
